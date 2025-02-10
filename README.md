@@ -1,4 +1,4 @@
-Here's a sample `README.md` for the **Modal** component that you can include in your project:
+
 
 ---
 
